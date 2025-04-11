@@ -1,2 +1,2 @@
 # kelompokerja
-repositori untuk belajar daring kelas  rpl 2
+repositori untuk belajar daring kelas  XIRPL2
